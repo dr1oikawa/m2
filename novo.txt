@@ -1,3 +1,7 @@
+
+alterado na maquina local
+
+
 novo na branch main
 
 depois de muito tempo ... voltando a mexer (25/04/2024)
