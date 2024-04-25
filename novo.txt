@@ -1,14 +1,16 @@
-novo na branch main
+alterado pela web 15:05
 
-depois de muito tempo ... voltando a mexer (25/04/2024)
+ramo Novo na principal
+
+departamento de muito andamento ... voltando a mexer (25/04/2024)
 Editado na web
 
 Agora editado na maquina local e testando o git push automatico
 
-nova branch
-como foi criado a nova branch teste
+filial nova
+como foi criado um novo ramo teste
 
-Agora estou adicionando alterações no codigo da branch teste
+Agora estou adicionando alterações no codigo da branch testa
 
 Foi feito o merge aqui!
 
