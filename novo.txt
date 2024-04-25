@@ -6,4 +6,7 @@ Editado na web
 Agora editado na maquina local e testando o git push automatico
 
 nova branch
+como foi criado a nova branch teste
+
+Agora estou adicionando alterações no codigo da branch teste
 
