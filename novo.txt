@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 
 alterado na maquina local
 
-
 novo na branch main
-=======
+
 alterado pela web 15:05
->>>>>>> origin
 
 ramo Novo na principal
 
