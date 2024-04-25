@@ -10,3 +10,5 @@ como foi criado a nova branch teste
 
 Agora estou adicionando alterações no codigo da branch teste
 
+Foi feito o merge aqui!
+
